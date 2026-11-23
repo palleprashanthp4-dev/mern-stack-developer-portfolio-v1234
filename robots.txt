@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mern-stack-developer-portfolio-v123-pearl.vercel.app/sitemap.xml
